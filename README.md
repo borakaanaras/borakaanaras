@@ -48,9 +48,9 @@
 
 <div align="center">
   <h2>📄 Resume</h2>
-
-
-  
+  <a href="https://drive.google.com/file/d/1A7zl9gAJ-ZaHXGk4OdRCxmgoeDuxrLbt/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Resume" />
+  </a>
 </div>
 
 <div align="center">
