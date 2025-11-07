@@ -31,7 +31,7 @@
 
 <div align="center">
   <h2>🌐 Personal Website</h2>
-  <a href="http://borakaanaras.netlify.app" target="_blank">
+  <a href="http://borakaanaras.dev" target="_blank">
 <img src="https://img.shields.io/badge/-borakaanaras.dev-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Personal Website" />
   </a>
 </div>
